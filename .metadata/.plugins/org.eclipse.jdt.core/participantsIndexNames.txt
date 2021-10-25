@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\238031741.index
+\ShopCarSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3588081758.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1662150499.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3533068584.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\454821332.index
+\ShopCarSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1570655931.index
+\ShopCarSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\695172818.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1951523374.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1069653445.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2484343367.index
+\DrinkSpringMvc\src
+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2261259637.index
+\DrinkSpringMvc\src

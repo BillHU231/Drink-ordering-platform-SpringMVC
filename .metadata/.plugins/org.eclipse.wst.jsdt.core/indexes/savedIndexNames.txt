@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\githubDrink_ordering_platform_SpringMVC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3870322192.index

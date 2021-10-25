@@ -1,0 +1,127 @@
+2021-10-25 12:02:09,194 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-25 12:04:26,651 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:04:26,651 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:04:30,115 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:04:30,123 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:04:30,123 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:04:30,123 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:04:30,342 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-25 12:04:31,269 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:04:33,077 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopCarSpringMvc/src
+2021-10-25 12:04:33,077 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ShopCarSpringMvc/src/test/java because it overlaps with /ShopCarSpringMvc/src
+2021-10-25 12:04:34,077 [Worker-41: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:04:34,397 [Worker-11: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ShopCarSpringMvc
+2021-10-25 12:04:34,405 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-10-25 12:04:39,526 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:04:39,526 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:04:39,526 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:04:39,534 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:05:27,688 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:05:27,688 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:05:27,696 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:05:27,696 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:06:01,114 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:01,114 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:06:01,122 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:01,122 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:06:01,130 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ShopCarSpringMvc
+2021-10-25 12:06:01,130 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ShopCarSpringMvc
+2021-10-25 12:06:01,154 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2021-10-25 12:06:01,170 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:10,814 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:10,814 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:06:10,822 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:10,822 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:06:10,822 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ShopCarSpringMvc
+2021-10-25 12:06:10,822 [Worker-42: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ShopCarSpringMvc
+2021-10-25 12:06:10,838 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:39,175 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:39,175 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:06:39,183 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:39,191 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:06:52,751 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-25 12:06:53,328 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:06:54,593 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopCarSpringMvc/src
+2021-10-25 12:06:54,593 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ShopCarSpringMvc/src/test/java because it overlaps with /ShopCarSpringMvc/src
+2021-10-25 12:06:55,015 [Worker-41: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ShopCarSpringMvc
+2021-10-25 12:06:55,031 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-10-25 12:06:56,069 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:56,077 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:06:56,085 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:06:56,085 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:06:56,085 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ShopCarSpringMvc
+2021-10-25 12:06:56,085 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ShopCarSpringMvc
+2021-10-25 12:06:56,093 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:08:09,438 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:08:09,438 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:08:09,446 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:08:09,454 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:15:17,785 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:15:17,793 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:15:17,801 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:15:17,801 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:15:24,916 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-25 12:15:25,676 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ShopCarSpringMvc:ShopCarSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\pom.xml.
+2021-10-25 12:15:27,323 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ShopCarSpringMvc/src
+2021-10-25 12:15:27,323 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ShopCarSpringMvc/src/test/java because it overlaps with /ShopCarSpringMvc/src
+2021-10-25 12:15:27,761 [Worker-49: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ShopCarSpringMvc
+2021-10-25 12:15:27,761 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-10-25 12:15:28,820 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:15:28,828 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:15:28,828 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:15:28,828 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:15:28,828 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ShopCarSpringMvc
+2021-10-25 12:15:28,836 [Worker-48: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ShopCarSpringMvc
+2021-10-25 12:15:28,836 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:24:29,989 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:24:29,989 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\main\resources
+2021-10-25 12:24:30,013 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:24:30,013 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\ShopCarSpringMvc\src\test\resources
+2021-10-25 12:26:29,343 [Worker-60: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: DrinkSpringMvc:DrinkSpringMvc:0.0.1-SNAPSHOT @ D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\pom.xml.
+2021-10-25 12:26:31,089 [Worker-60: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:31,089 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:31,121 [Worker-60: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:31,121 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:32,518 [Worker-65: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:32,518 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:32,526 [Worker-65: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:32,526 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:32,886 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:32,886 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:32,886 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:32,894 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:33,213 [Worker-65: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,213 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:33,213 [Worker-65: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,221 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:33,620 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,620 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:33,628 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,628 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:33,939 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,939 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:33,939 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:33,947 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:34,316 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:34,316 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:34,316 [Worker-67: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:34,324 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:26:34,683 [Worker-62: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:34,683 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:26:34,683 [Worker-62: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:26:34,683 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:27:07,004 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:27:07,012 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:27:07,020 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:27:07,020 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:27:13,081 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:27:13,081 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:27:13,089 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:27:13,089 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:29:01,328 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:29:01,328 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\main\resources
+2021-10-25 12:29:01,336 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-25 12:29:01,336 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\githubDrink_ordering_platform_SpringMVC\DrinkSpringMvc\src\test\resources
+2021-10-25 12:29:01,336 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of DrinkSpringMvc
+2021-10-25 12:29:01,336 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for DrinkSpringMvc
+2021-10-25 12:29:01,360 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
